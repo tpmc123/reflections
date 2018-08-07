@@ -11,3 +11,8 @@ it is not a list of all files in the directory, like the working directory. And 
 - How can you use the staging area to make sure you have one commit per logical change?
 
 you can add one file / logical change to the staging area at a time, commit that change, then repeat for any other logical changes.
+
+
+- What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches can help if you want to be developing multiple iterations of code/file at once. i.e. master version, experimental version, easy version (for game), hard version (for game)
