@@ -1,0 +1,2 @@
+- What happens when you initialize a repository? Why do you need to do it?
+You create a git repository for files in that directory. In order to track files, you need to initiate version control on those files.
