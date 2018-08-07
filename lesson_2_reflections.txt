@@ -6,3 +6,8 @@ You create a git repository for files in that directory. In order to track files
 - How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it is not a list of all files in the directory, like the working directory. And it's not filled with commits, like the repository. the staging area gives us the choice of which files in the working directory we want committed in the repository. 
+
+
+- How can you use the staging area to make sure you have one commit per logical change?
+
+you can add one file / logical change to the staging area at a time, commit that change, then repeat for any other logical changes.
