@@ -26,3 +26,8 @@ they put the branch structure in a visualization, making it easier to understand
 - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Two branches become 1 branch. All changes on both branches included. Diagram shows 2 branches becoming one, or more specifically, one branch merging into another. 
+
+
+- What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Auto merge is automatic. Fast, no user error from copy/pasting. But it can't resolve conflicts in code that's being merged, so that has to be done manually.
