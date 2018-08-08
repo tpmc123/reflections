@@ -21,3 +21,8 @@ branches can help if you want to be developing multiple iterations of code/file 
 - How do the diagrams help you visualize the branch structure?
 
 they put the branch structure in a visualization, making it easier to understand.
+
+
+- What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Two branches become 1 branch. All changes on both branches included. Diagram shows 2 branches becoming one, or more specifically, one branch merging into another. 
